@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Scrolling Text</string>
+    <string name="article_title">Android Vol.1</string>
+    <string name="artical_subtitle">Android Studio</string>
+    <string name="artical_text">
+        <b><i>Android Studio</i></b> adalah Lingkungan Pengembangan Terpadu - Integrated Development Environment (IDE) untuk pengembangan aplikasi Android,
+        berdasarkan IntelliJ IDEA . Selain merupakan editor kode IntelliJ dan alat pengembang yang berdaya guna,
+        Android Studio menawarkan fitur lebih banyak untuk meningkatkan produktivitas Anda saat membuat aplikasi Android!
+    https://developer.android.com/studio/intro/index.html?hl=id \n\n
+
+        <b><i>fitur yang di tawarkan android studio</i></b> \n
+        <b><i>a.</i></b> Sistem versi berbasis Gradle yang fleksibel \n
+        <b><i>b.</i></b> Emulator yang cepat dan kaya fitur \n
+        <b><i>c.</i></b> Lingkungan yang menyatu untuk pengembangan bagi semua perangkat Android \n
+        <b><i>d.</i></b> Instant Run untuk mendorong perubahan ke aplikasi yang berjalan tanpa membuat APK baru \n
+        <b><i>e.</i></b> Template kode dan integrasi GitHub untuk membuat fitur aplikasi yang sama dan mengimpor kode contoh \n
+        <b><i>f.</i></b> Alat pengujian dan kerangka kerja yang ekstensif \n
+        <b><i>g.</i></b> Alat Lint untuk meningkatkan kinerja, kegunaan, kompatibilitas versi, dan masalah-masalah lain \n
+        <b><i>e.</i></b> Dukungan C++ dan NDK \n
+        <b><i>g.</i></b> Dukungan bawaan untuk Google Cloud Platform, mempermudah pengintegrasian Google Cloud Messaging dan App Engine \n
+        <b><i>h.</i></b> Laman ini berisi pengantar dasar fitur-fitur Android Studio. Untuk memperoleh rangkuman perubahan terbaru \n\n
+
+        <b><i>Bahasa Pemograman pada Android </i></b> \n
+        Java, Java merupakan bahasa pemrograman paling populer pada bulan Juni 2017.
+        Jika pembaca ingin membuat aplikasi Android maka Java adalah pilihan terbaik saat ini.
+        Java memiliki komunitas yang sangat lah besar, baik di dunia maupun di Indonesia.
+        Di Indonesia sendiri Java bahkan memiliki grup facebook dengan anggota terbesar setelah PHP.
+        Dengan adanya komunitas yang besar kita tidak akan kesulitan untuk mencari jawaban saat menemukan kesulitan.\n\n
+
+    </string>
+</resources>
